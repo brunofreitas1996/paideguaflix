@@ -101,7 +101,7 @@
     },
     {
       "titulo": "Lendas Urbanas",
-      "cor": "...",
+      "cor": "#FF0000",
       "videos": [
         {
           "titulo": "A Mulher do Taxi",
